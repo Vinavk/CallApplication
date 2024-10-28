@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "242391129442",
+    "firebase_url": "https://fir-9ff1f-default-rtdb.firebaseio.com",
+    "project_id": "fir-9ff1f",
+    "storage_bucket": "fir-9ff1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242391129442:android:9fd63abebf5be7d7ba603b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY35LtmvLACFzYX4o3rii1E-j_JZQsVmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242391129442:android:df40353fdda3b97cba603b",
+        "android_client_info": {
+          "package_name": "com.example.firebasepushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY35LtmvLACFzYX4o3rii1E-j_JZQsVmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242391129442:android:990b863aee440d19ba603b",
+        "android_client_info": {
+          "package_name": "com.example.videocallapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY35LtmvLACFzYX4o3rii1E-j_JZQsVmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

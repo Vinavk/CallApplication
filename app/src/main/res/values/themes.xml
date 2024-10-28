@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VideoCallApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item> <!-- Change to your colors -->
+        <item name="colorOnPrimary">@color/white</item> <!-- Text color on primary background -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/white</item> <!-- Text color on secondary background -->
+        <item name="android:windowBackground">@color/white</item>  <!-- Optional: set window background -->
+    </style>
+
+</resources>
